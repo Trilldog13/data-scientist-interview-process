@@ -1,5 +1,5 @@
 # data-scientist-interview-process
-A transparent overview of the interview process for a Senior Data Scientist role, including role fit, causal inference case studies, and leadership discussions. Designed to help candidates understand what to expect and prepare thoughtfully for senior-level data science interviews.
+I've been recruiting a Senior Data Scientist role this month. Here is a transparent overview of the interview process for a Senior Data Scientist role, including role fit, causal inference case studies, and leadership discussions. This is designed to help candidates understand what to expect and prepare thoughtfully for senior-level, product led data science interview.
 
 # Senior Data Scientist - Product focused — Interview Process Overview
 
